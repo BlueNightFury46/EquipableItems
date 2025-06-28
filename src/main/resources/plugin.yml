@@ -1,0 +1,7 @@
+name: WearableItems
+version: '1.0'
+main: bluenightfury46.dev.wearableItems.WearableItems
+api-version: '1.21'
+authors: [ BlueNightFury46 ]
+description: 'Allows you to equip any item, just by shift-clicking it!'
+website: bluenightfury46.dev
